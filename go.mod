@@ -1,6 +1,6 @@
 module github.com/chime/mani-diffy
 
-go 1.20
+go 1.24
 
 require (
 	github.com/argoproj/argo-cd/v2 v2.6.15
@@ -67,7 +67,7 @@ require (
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/kevinburke/ssh_config v1.2.0 // indirect
-	github.com/klauspost/compress v1.16.5 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
